@@ -1,2 +1,4 @@
 # dreamlike-R4-TWiMenu
-A theme called dreamlike for TWiLight Menu++'s R4-style menu.
+A Vaporwave & retro anime inspired theme called dreamlike for TWiLight Menu++'s R4-style menu.
+
+![](dreamlikethemepreview.png)
